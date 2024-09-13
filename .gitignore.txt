@@ -1,0 +1,9 @@
+
+
+
+
+
+
+
+ #idnore all .txt files
+.txt
